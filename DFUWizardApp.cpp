@@ -49,7 +49,7 @@ BOOL DFUWizardApp::InitInstance()
 	Enable3dControlsStatic();	// Call this when linking to MFC statically
 #endif
 
-	DFUAppl wizard("Employment Application");
+	DFUAppl wizard("Revolabs Device Firmware Upgrade Wizard");
 	
 	IntroPage pageIntro;
 

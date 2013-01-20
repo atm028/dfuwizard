@@ -16,7 +16,7 @@ class IntroPage : public CPropertyPage
 // Construction
 public:
 	IntroPage(CWnd* pParent = NULL);	// standard constructor
-
+	
 // Dialog Data
 	//{{AFX_DATA(IntroPage)
 	enum { IDD = IDD_EMPLOYMENT_DLG };

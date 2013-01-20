@@ -4,6 +4,7 @@
 //
 #define IDD_EMPLOYMENT_DIALOG           102
 #define IDD_EMPLOYMENT_DLG              102
+#define IDD_PAGE_INTRO                  102
 #define IDR_MAINFRAME                   128
 #define IDC_EDIT1                       1000
 
